@@ -35,7 +35,7 @@ let questions = [
         choice3:'3',
         choice4:'4',
         answer: 2,
-    },
+    }
 ]
 
 
